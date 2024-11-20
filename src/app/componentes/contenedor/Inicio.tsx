@@ -14,7 +14,7 @@ export const Inicio = () => {
               alt="Concierto 1"
             />
             <Carousel.Caption>
-              <h3>Conciertos Star</h3>
+              <h3>Play music</h3>
               <p>Disfruta de las mejores canciones del año.</p>
             </Carousel.Caption>
           </Carousel.Item>
